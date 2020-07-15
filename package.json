@@ -1,0 +1,30 @@
+{
+  "name": "lisieux",
+  "version": "0.0.1",
+  "description": "Este é um programa de gerenciamento de dados laboratoriais. Seu nome é uma homenagem à Santa Teresinha.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "JS",
+    "Electron",
+    "JS",
+    "Laboratório",
+    "Lisieux",
+    "Teresinha",
+    "Acutis"
+  ],
+  "author": "Carlos Henrique Furtado da Cunha",
+  "license": "SEE LICENSE IN License.txt",
+  "devDependencies": {
+    "electron": "^2.0.18"
+  },
+  "dependencies": {
+    "datatables.net": "^1.10.19",
+    "datatables.net-dt": "^1.10.19",
+    "exceljs": "^2.0.1",
+    "jquery": "^3.4.1"
+  }
+}
