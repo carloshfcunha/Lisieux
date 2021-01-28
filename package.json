@@ -19,7 +19,7 @@
   "author": "Carlos Henrique Furtado da Cunha",
   "license": "SEE LICENSE IN License.txt",
   "devDependencies": {
-    "electron": "^2.0.18"
+    "electron": "^9.4.0"
   },
   "dependencies": {
     "datatables.net": "^1.10.19",
