@@ -22,7 +22,7 @@
     "electron": "^2.0.18"
   },
   "dependencies": {
-    "datatables.net": "^1.10.19",
+    "datatables.net": "^1.11.3",
     "datatables.net-dt": "^1.10.19",
     "exceljs": "^2.0.1",
     "jquery": "^3.4.1"
